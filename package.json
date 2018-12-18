@@ -1,0 +1,30 @@
+{
+  "name": "@includable/open-browser",
+  "version": "1.0.0",
+  "description": "Opens the user's favorite browser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/includable/open-browser.git"
+  },
+  "keywords": [
+    "open",
+    "browser",
+    "launch",
+    "web"
+  ],
+  "author": "Thomas Schoffelen <thomas@includable.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/includable/open-browser/issues"
+  },
+  "homepage": "https://github.com/includable/open-browser#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "cross-spawn": "^6.0.5",
+    "opn": "^5.4.0"
+  }
+}
