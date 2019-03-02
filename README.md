@@ -15,7 +15,7 @@ npm i @includable/open-browser
 ## Usage
 
 ```js
-const openBrowser = require('@includable/open-browdser')
+const openBrowser = require('@includable/open-browser')
 
 openBrowser('https://www.includable.com/')
 ```
